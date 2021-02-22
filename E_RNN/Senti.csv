@@ -1,0 +1,11 @@
+id,text,sentiment
+1,I love this car,Positive
+2,This view is amazing,Positive
+3,I feel great this morning,Positive
+4,I am so excited about the concert,Positive
+5,He is my best friend,Positive
+6,I do not like this car,Negative
+7,This view is horrible,Negative
+8,I feel tired this morning,Negative
+9,I am not looking forward to the concert,Negative
+10,He is my enemy,Negative
